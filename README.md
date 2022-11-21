@@ -1,4 +1,3 @@
-# 2DGame
-A 2D Rogue like game which is a school prkect
+# 3DGame
+A 3D Game which is a digital form of the game Billiard
 
-test
